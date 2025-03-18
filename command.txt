@@ -1,0 +1,16 @@
+hello world
+hi nuri
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git add filename.txt
+git commit -m '메시지'
+
+git add . (모든파일 스테이징)
+git status
+git --version
+git config --list
+git log --all --oneline
+git branch -M main
+
